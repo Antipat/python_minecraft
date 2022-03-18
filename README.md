@@ -12,3 +12,13 @@
 
 Скачать сервер Spigot для minecraft 1.12.2 вы можете, пройдя по ссылке https://disk.yandex.ru/d/EQcFnLLAuU_9Zg
 
+ВАЖНО!!!!
+Для сервера под minecraft 1.12.2 используется Java 8 
+Для сервера под minecraft 1.17.1 используется Java 17
+
+Если при запуске сервера выходит ошибка, то скорее всего вам нужно установить одну из этих Java.
+
+Ссылки на них прикладываю: 
+- Java 17  - https://disk.yandex.ru/d/sY1lAXRi0sxnrw
+- Java 8  - https://disk.yandex.ru/d/MZ8rmHdSBcSAGg
+
