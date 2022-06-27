@@ -11,7 +11,9 @@
 СБОРКИ ПОД PYTHON 3.10.X И ВЫШЕ
 
 Скачать сервер Spigot для minecraft 1.12.2 вы можете, пройдя по ссылке https://disk.yandex.ru/d/EQcFnLLAuU_9Zg
+
 Скачать сервер Spigot для minecraft 1.17.1 вы можете, пройдя по ссылке https://disk.yandex.ru/d/joHIY02lOjKvNw
+
 Скачать сервер Spigot для minecraft 1.19 вы можете, пройдя по ссылке https://disk.yandex.ru/d/he_W8RpxhfYYkw
 
 ВАЖНО!!!!
