@@ -33,3 +33,4 @@
 - Java 17  - https://disk.yandex.ru/d/sY1lAXRi0sxnrw
 - Java 8  - https://disk.yandex.ru/d/MZ8rmHdSBcSAGg
 
+ЕСЛИ ВЫ НЕ МОЖЕТЕ ПО КАКОЙ-ЛИБО ПРИЧИНЕ СКАЧАТЬ MINECRAFT С ОФИЦИАЛЬНОГО САЙТА, ТО ИСПОЛЬЗУЙТЕ TLAUNCHER. Все игроки в minecraft знают о нём.
