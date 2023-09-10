@@ -19,6 +19,8 @@
 
 Скачать сервер Spigot для minecraft 1.19 вы можете, пройдя по ссылке https://disk.yandex.ru/d/he_W8RpxhfYYkw
 
+Скачать сервер Spigot для minecraft 1.19.1 вы можете, пройдя по ссылке https://disk.yandex.ru/d/s5IuiBiCm-tuog 
+
 ВАЖНО!!!!
 
 Для сервера под minecraft 1.12.2 используется Java 8 
