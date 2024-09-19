@@ -15,13 +15,13 @@
 
 Скачать сервер Spigot для minecraft 1.12.2 вы можете, пройдя по ссылке https://disk.yandex.ru/d/EQcFnLLAuU_9Zg
 
-Скачать сервер Spigot для minecraft 1.17.1 вы можете, пройдя по ссылке https://disk.yandex.ru/d/joHIY02lOjKvNw
+Скачать сервер Spigot для minecraft 1.17.1 вы можете, пройдя по ссылке https://disk.yandex.ru/d/9xhDVtZ_6UhrpA
 
-Скачать сервер Spigot для minecraft 1.19 вы можете, пройдя по ссылке https://disk.yandex.ru/d/he_W8RpxhfYYkw
+Скачать сервер Spigot для minecraft 1.19.1 вы можете, пройдя по ссылке https://disk.yandex.ru/d/i-yUfbAO-Ic8Vg 
 
-Скачать сервер Spigot для minecraft 1.19.1 вы можете, пройдя по ссылке https://disk.yandex.ru/d/s5IuiBiCm-tuog 
+Скачать сервер Spigot для minecraft 1.19.2 вы можете, пройдя по ссылке https://disk.yandex.ru/d/Wg681FS0csJlBg
 
-Скачать сервер Spigot для minecraft 1.20.4 вы можете, пройдя по ссылке https://disk.yandex.ru/d/ti-zbIL51uNoag
+Скачать сервер Spigot для minecraft 1.20.4 вы можете, пройдя по ссылке https://disk.yandex.ru/d/bbJFZsKn1_OEug
 
 Скачать сервер Spigot для minecraft 1.21 вы можете, пройдя по ссылке https://disk.yandex.ru/d/49y1Wz3UiP2Ndw
 
