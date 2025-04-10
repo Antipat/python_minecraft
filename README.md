@@ -18,6 +18,7 @@
 #################
 Старые версии сервера Spigot
 #################
+
 Скачать сервер Spigot для minecraft 1.12.2 вы можете, пройдя по ссылке https://disk.yandex.ru/d/EQcFnLLAuU_9Zg
 
 Скачать сервер Spigot для minecraft 1.17.1 вы можете, пройдя по ссылке https://disk.yandex.ru/d/9xhDVtZ_6UhrpA
