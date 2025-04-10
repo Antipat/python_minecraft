@@ -13,6 +13,11 @@
 
 СБОРКИ ПОД PYTHON 3.10.X И ВЫШЕ
 
+Новая последняя версия сервер Spigot для minecraft 1.21.5 вы можете, пройдя по ссылке https://disk.yandex.ru/d/gXeukVD-hE1clg 
+
+#################
+Старые версии сервера Spigot
+#################
 Скачать сервер Spigot для minecraft 1.12.2 вы можете, пройдя по ссылке https://disk.yandex.ru/d/EQcFnLLAuU_9Zg
 
 Скачать сервер Spigot для minecraft 1.17.1 вы можете, пройдя по ссылке https://disk.yandex.ru/d/9xhDVtZ_6UhrpA
@@ -24,6 +29,7 @@
 Скачать сервер Spigot для minecraft 1.20.4 вы можете, пройдя по ссылке https://disk.yandex.ru/d/bbJFZsKn1_OEug
 
 Скачать сервер Spigot для minecraft 1.21 вы можете, пройдя по ссылке https://disk.yandex.ru/d/49y1Wz3UiP2Ndw
+
 
 
 ВАЖНО!!!!
