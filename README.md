@@ -4,12 +4,12 @@
 
 Добавил сервер для последней на сегодняшней день версии Minecraft 1.19. Настроен под Python 3.10 и выше
 
-##СБОРКИ ПОД PYTHON 3.10.X И ВЫШЕ
+## СБОРКИ ПОД PYTHON 3.10.X И ВЫШЕ
 
 Новая последняя версия сервер Spigot для minecraft 1.21.8 вы можете, пройдя по ссылке https://disk.yandex.ru/d/9XQYx3GywaouVA
 
 #################
-#Старые версии сервера Spigot
+# Старые версии сервера Spigot
 #################
 
 Скачать сервер Spigot для minecraft 1.21.5 вы можете, пройдя по ссылке https://disk.yandex.ru/d/gXeukVD-hE1clg 
@@ -27,14 +27,14 @@
 Скачать сервер Spigot для minecraft 1.21 вы можете, пройдя по ссылке https://disk.yandex.ru/d/49y1Wz3UiP2Ndw
 
 
-##ДВЕ СБОРКИ ДЛЯ PYTHON 3.9.X И НИЖЕ
+## ДВЕ СБОРКИ ДЛЯ PYTHON 3.9.X И НИЖЕ
 
 Скачать сервер Spigot для minecraft 1.12.2 вы можете, пройдя по ссылке https://yadi.sk/d/GjYg41gtDdZmMw
 
 Скачать сервер Spigot для minecraft 1.17.1 вы можете, пройдя по ссылке https://disk.yandex.ru/d/FbO-RWa3pw2THw
 
 
-###ВАЖНО!!!!
+### ВАЖНО!!!!
 
 Для сервера под minecraft 1.12.2 используется Java 8 
 
