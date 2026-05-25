@@ -11,7 +11,7 @@
 
 ## СБОРКИ ПОД PYTHON 3.10.X И ВЫШЕ
 
-Новая последняя версия сервер Spigot для minecraft 1.21.8 вы можете, пройдя по ссылке https://disk.yandex.ru/d/GSDUg0IZma3Lug
+Новая последняя версия сервер Spigot для minecraft 1.21.8 вы можете, пройдя по ссылке https://disk.yandex.ru/d/PzwiUk-K214_VA
 
 #################
 # Старые версии сервера Spigot
